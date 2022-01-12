@@ -1,3 +1,2 @@
 Checkout Resume website link below
-
-https://abiramy-r.github.io/Click/
+https://abiramy-r.github.io/Resume/
